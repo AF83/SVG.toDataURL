@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/AF83/SVG.toDataURL",
   "dependencies": {
-    "canvg": "git://github.com/gabelerner/canvg.git#v1.4"
+    "canvg": "git://github.com/af83/canvg.git#1.0.1"
   }
 }
