@@ -41,6 +41,8 @@
 	¹ http://svgopen.org/2010/papers/62-From_SVG_to_Canvas_and_Back/#svg_to_canvas
 */
 
+var canvg = require('canvg');
+
 SVGElement.prototype.toDataURL = function(type, options) {
 	var _svg = this;
   var log = (options.log) ? options.log : true;
