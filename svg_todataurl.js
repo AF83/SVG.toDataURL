@@ -105,7 +105,7 @@ SVGElement.prototype.toDataURL = function(type, options) {
 			b64 += btoa(s);
 		} else {
 			debug("using custom base64 encoder");
-			b64 += Base64.encode(s);
+			b64 += require('base64').encode(s);
 		}
 		
 		return b64;

@@ -1,4 +1,9 @@
 // http://www.webtoolkit.info/javascript-base64.html
+if (typeof module === 'object' && module.exports) {
+  module.exports = Base64;
+} else {
+  window.Base64 = Base64;
+}
 
 var Base64 = {
 
@@ -135,3 +140,5 @@ var Base64 = {
 	}
 
 }
+
+
