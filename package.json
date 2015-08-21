@@ -1,0 +1,19 @@
+{
+  "name": "SVG.toDataURL",
+  "version": "1.0.0",
+  "description": "SVG.toDataURL() ===============",
+  "main": "svg_todataurl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AF83/SVG.toDataURL.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AF83/SVG.toDataURL/issues"
+  },
+  "homepage": "https://github.com/AF83/SVG.toDataURL"
+}
