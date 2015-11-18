@@ -1,6 +1,6 @@
 {
   "name": "SVG.toDataURL",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "SVG.toDataURL() ===============",
   "main": "svg_todataurl.js",
   "scripts": {
